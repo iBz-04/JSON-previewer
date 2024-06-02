@@ -1,9 +1,11 @@
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ibzdev.site)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibrahh__ib)
+
 ## Overview
 
 A  web application for JSON visualization and interaction, generated images are downloadable.
-
-
-Live Preview: <https://JSON-previewer.vercel.app>
 
 ### Stack
 
@@ -28,7 +30,7 @@ Live Preview: <https://JSON-previewer.vercel.app>
 
 Users can easily interact with the code editor and type in JSON structured code.
 
-The code editor has a *debugging feature* - red indicator that shows error exist in the code. Thus, It can't be previewed until it is fixed.
+The code editor has a *debugging feature* - red indicator that shows error exist in the code. So, It can't be previewed until the bug is fixed.
 
 At the bottom-left, it has features which allows:
 
@@ -69,3 +71,12 @@ npm start
 ```
 
 You can now see it at `http://localhost:3000` in your browser.
+
+## Feedback
+
+If you have any feedback, please reach out to us ibz.04dev@gmail.com
+
+
+## Authors
+
+- [@iBz-04](https://github.com/iBz-04)
