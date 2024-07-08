@@ -15,7 +15,7 @@ A  web application for JSON visualization and interaction, generated images are 
 - reactflow
 - Scss
 - HTML
-- -Css
+- Css
 
 ## Features
 
