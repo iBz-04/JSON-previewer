@@ -9,12 +9,8 @@ A  web application for JSON visualization and interaction, generated images are 
 
 ### Stack
 
-- React
-- react-component-export-image
-- react-simple-code-editor
-- reactflow
+- React.js
 - Scss
-- HTML
 - Css
 
 ## Features

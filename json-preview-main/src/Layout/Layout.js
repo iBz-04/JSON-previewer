@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
   const [downloadCount, setDownloadCount] = useState(0);
   const [code, setCode] = useState(`
  {
-    "name": "json-preview",
+    "name": "ibz-app",
     "version": "0.1.0",
     "private": true,
   
